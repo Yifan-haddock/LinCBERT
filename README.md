@@ -1,4 +1,7 @@
 # LinCBERT
-A pre-trained language model that cross-aligns in-context biomedical mentions with entities in ontologies.
-For now, it only contains source code for LinCBERT model for review. We will upload other files and datasets later when published.
-Thanks for watching. 🤗
+
+LinCBERT is a pre-trained language model designed to cross-align in-context biomedical mentions with entities in ontologies.
+
+> **Note:** This repository currently hosts the LinCBERT source code for review. Additional files and datasets will be uploaded upon publication.
+
+Thank you for your interest! 🤗
